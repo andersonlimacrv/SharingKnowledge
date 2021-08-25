@@ -12,3 +12,9 @@
    CREATE USER youruser WITH ENCRYPTED PASSWORD 'yourpass';
    GRANT ALL PRIVILEGES ON DATABASE yourdbname TO youruser;
 ```
+
+### Other way
+
+````bash
+createuser postgres --interactive
+```
