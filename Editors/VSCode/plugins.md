@@ -14,3 +14,6 @@
 - Alignment
 - pylance
 - VSCode Icons
+
+###Ruby Extensions
+- VSCode Great Icons
