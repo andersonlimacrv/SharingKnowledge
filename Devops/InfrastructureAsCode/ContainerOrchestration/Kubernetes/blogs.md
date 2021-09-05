@@ -1,0 +1,1 @@
+[basic](https://kubernetes.io/vi/docs/tutorials/kubernetes-basics/_print/)

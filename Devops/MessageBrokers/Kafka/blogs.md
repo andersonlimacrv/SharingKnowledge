@@ -1,0 +1,1 @@
+[kafka architecture](https://data-flair.training/blogs/kafka-architecture/)
