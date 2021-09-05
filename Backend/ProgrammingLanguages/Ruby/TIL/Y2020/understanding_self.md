@@ -1,0 +1,1 @@
+[source](https://viblo.asia/p/self-trong-ruby-la-gi-gGJ59xQ9lX2)
