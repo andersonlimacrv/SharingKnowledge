@@ -5,38 +5,40 @@
 [hodlbot](https://www.hodlbot.io/)
 
 
-###creates telegram-bot integrated binance api
+### creates telegram-bot integrated binance api
 [telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)
 [binance](https://github.com/sammchardy/python-binance)
 
 
-###awesome crypto
+### awesome crypto
 [awesome-crypto-trading-bots](https://github.com/botcrypto-io/awesome-crypto-trading-bots)
 
 [forexfactory](https://www.forexfactory.com/forums)
 
 
-##IDO platform
+## IDO platform
 https://bscpad.com/
 https://poikastarter.live/
 https://yellowroad.app/
 
 
-###Coin predict
+### Coin predict
 https://digitalcoinprice.com/forecast/reef
 
 
-###Coin list
+### Coin list
 https://coinlist.co/
 
 
-###DeFi
+### DeFi
+https://defipulse.com/
 https://zapper.fi/invest
+https://defillama.com/
 yearn.finance
 curve.fi
 
 
-###Staking Reward
+### Staking Reward
 https://www.stakingrewards.com/
 http://kebabfinance.com/ (*)
 http://mofi.finance/ (*)
@@ -44,5 +46,9 @@ http://beefy.finance  + (https://www.yieldwatch.net/)
 https://autofarm.network/
 
 
-###Farming
+### Farming
 https://v3.unifarm.co/
+
+
+### File Sharing
+https://crust.network/
