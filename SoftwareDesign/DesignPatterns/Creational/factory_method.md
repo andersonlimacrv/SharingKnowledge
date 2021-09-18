@@ -46,3 +46,14 @@
     end
   end
 ```
+
+```html
+### when to use:
+- đưa toàn bộ logic của việc tạo mới object vào trong factory, che giấu logic của việc khởi tạo
+- giảm sự phụ thuộc nhằm tăng tính mở rộng
+
+=> thường được sử dụng trong các thư viện (người sử dụng đạt được mục đích
+  tạo mới object mà không cần quan tâm đến cách nó được tạo ra)
+  
+[source](https://codelearn.io/sharing/factory-method-pattern-trong-java)  
+```
