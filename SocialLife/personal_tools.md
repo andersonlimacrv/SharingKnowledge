@@ -9,8 +9,12 @@
 [trashmail](https://trashmail.com/?lang=en)
 [fbdown private video](https://fbdown.net/)
 
-###Tricks to create multiples email with same account
+### Tricks to create multiples email with same account
 ex: abcdefgh@gmail.com
 1. a.bcdefgh@gmail.com
 2. ab.cdefgh@gmail.com
 3. abcdefgh+01@gmail.com
+
+
+### PDF
+https://www.sejda.com/
