@@ -12,5 +12,10 @@
 [book MQL4](https://book.mql4.com/)
 [learn MT4](https://www.udemy.com/course/learn-mql4/)
 
-#### game development
-https://cryptozombies.io/
+### game development
+https://cryptozombies.io/ [solidity]
+
+
+### languages
+- solidity [eth]
+- glow [cadano]
