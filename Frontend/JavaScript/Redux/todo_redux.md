@@ -1,0 +1,1 @@
+[basic app to learn](https://www.valentinog.com/blog/redux/)
