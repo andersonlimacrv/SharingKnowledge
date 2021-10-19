@@ -2,3 +2,4 @@
 [redisdesktop](https://redisdesktop.com/)
 [dbeaver](https://dbeaver.io/)
 [datasette](https://datasette.io/)
+[pgadmin](https://www.pgadmin.org/download/pgadmin-4-macos/)
