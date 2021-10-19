@@ -57,3 +57,7 @@
   
 [source](https://codelearn.io/sharing/factory-method-pattern-trong-java)  
 ```
+
+```html
+Factory Pattern xác định một interface để tạo một đối tượng, nhưng cho phép các lớp con quyết định lớp nào sẽ khởi tạo.  Factory Pattern giao việc khởi tạo một đối tượng cụ thể cho lớp con
+```

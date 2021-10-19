@@ -9,3 +9,5 @@ module SoftwareDesign
     end
   end
 end
+
+# AbstractFactory is factory of factory
