@@ -38,3 +38,4 @@ console.log(restof); // {m: 30, n: 40}
 
 
 [source](https://www.geeksforgeeks.org/destructuring-assignment-in-javascript/#:~:text=Destructuring%20Assignment%20is%20a%20JavaScript,objects%20and%20assigning%20to%20variables.)
+[source](https://dmitripavlutin.com/javascript-object-destructuring/)

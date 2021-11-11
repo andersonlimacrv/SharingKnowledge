@@ -11,3 +11,7 @@ Redux has 3 main parts:
  		- dispatch for dispatching an action
  		- subscribe for listening to state changes
 ```
+
+
+### selectors: are getters for the redux state
+### action creator:
