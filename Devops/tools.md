@@ -4,3 +4,4 @@
 [surge-deploy-static-fast]](https://surge.sh/)
 [deploy-static-page](https://www.netlify.com/pricing/)
 [load testing tool](https://locust.io/)
+[config multiple services in dev](https://tilt.dev/)
