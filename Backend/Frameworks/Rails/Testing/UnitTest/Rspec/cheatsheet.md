@@ -9,13 +9,17 @@ They are used in place of allow or expect:
 ```html
 [rspec-mocks] provided these methods:
 
-- allow_any_instance_of
-- expect_any_instance_of
+- allow_any_instance_of (stub)
+- expect_any_instance_of (mock)
 - spy
 - double
 - instance_double
 ```
 
+
+```html
+- described_class:
+```
 
 [devhints](https://devhints.io/rspec)
 [rspec](https://spartchou.gitbooks.io/ruby-on-rails-basic/content/rspec/stub.html)

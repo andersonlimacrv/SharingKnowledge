@@ -19,3 +19,7 @@ https://cryptozombies.io/ [solidity]
 ### languages
 - solidity [eth]
 - glow [cadano]
+
+### development tools
+- https://www.alchemy.com/
+- https://infura.io/

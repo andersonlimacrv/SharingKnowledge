@@ -1,2 +1,4 @@
 [awesome-rails](https://github.com/gramantin/awesome-rails)
 [opensource rails](https://opensourcerails.org/)
+[howtousetrailblazer](https://dev.to/2nit/trailblazer-tutorial-fat-controller-part-1-4k80)
+[evilmartians opensource](https://evilmartians.com/#oss)

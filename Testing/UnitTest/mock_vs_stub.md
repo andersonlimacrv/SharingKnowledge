@@ -15,6 +15,28 @@ allow(some_object).to receive(some_method).and_return(some_value)
 - A mock expects methods to be called, if they are not called the test will fail.
 - Expects specific messages; will raise an error if it doesn’t receive
   them by the end of the example
+
+### another definition:
+- Mocking is the practice of using fake objects to mimic the behaviour of
+real application components. Since mock objects simulate the behaviour of
+the original components, they can be used during testing of an isolated
+application code to handle its interaction with other parts of the application.
+
+[source](https://www.netguru.com/blog/ruby-tests-rspec-mocks)
+
+### benefits:
+- The simplification of the test environment building process
+- Minimizing time and resource footprint.
+
+### mocking object types:
+1. stub: returns pre-programmed results in response to specific messages
+2. mock: has built-in expectations of messages that it will receive and
+  it will fail if those expectations are not fulfilled.
+3. null object:  returns self in response to any message.
+4. spy: registers all messages
+5. fake: a simplified version of an object that operates correctly
+  in development but is unsuitable for production, e.g. an SQLite database.
+6. dummy: an object that is passed around but is never used.
 ```
 
 ```ruby
@@ -31,8 +53,24 @@ expect(some_object).to receive(some_method).and_return(some_value)
 ### double
 
 ```html
-The double is an “empty” object that (theoretically) can stand for any other object.
+- The double is an “empty” object that (theoretically) can stand for any other object.
+- another definition in Rspec: double to denote a generic object representing
+any type of mocking object.
+
+### Rspec has three types of double
+1. Pure double (also known as double or normal double)
+2. Verifying double
+3. Partial double
 ```
+
+#### Working with pure doubles
+
+```ruby
+random_double = double('random')
+allow(random_double).to receive(:rand).and_return(7)
+expect((1..6).map{ random_double.rand(1..10) }).to eq([7,7,7,7,7,7])
+```
+
 
 ```ruby
 user = double("User")
@@ -84,3 +122,21 @@ from /Users/mauro-oto/.rvm/gems/ruby-2.2.1@carbide/gems/rspec-support-3.5.0/lib/
 
 [spy vs double](https://www.ombulabs.com/blog/rspec/ruby/spy-vs-double-vs-instance-double.html)
 [stub vs mock](https://viblo.asia/p/rspec-su-khac-biet-giua-mocks-va-stubs-3P0lPkNnZox)
+
+### double vs instance_double
+
+```html
+# Bad
+double(:mailer, deliver: true, foo: 42)
+double(:User, find: fake_user, bar: 43)
+
+# Better
+instance_double(Mailer, deliver: true, foo: 42)
+# => RSpec::Mocks::MockExpectationError: the Tags class does not implement the instance method: foo
+
+class_double(User, find: fake_user, bar: 43)
+# => RSpec::Mocks::MockExpectationError: the User class does not implement the class method: bar
+
+### instance_double can fail a test if methods are not available in the specified class
+### double doesn't care about anything.
+```
