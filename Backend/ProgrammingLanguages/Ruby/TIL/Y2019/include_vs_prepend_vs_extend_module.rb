@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 # source: http://leohetsch.com/include-vs-prepend-vs-extend/
+# source: https://longliveruby.com/level-ups/ruby-modules
 module ProgrammingLanguage
   module Ruby
     module TIL

@@ -1,7 +1,1 @@
-- LTC
-- TRX
-- BTT
-- ADA
-- REEF
-- CRV
-- PEAK
+[FET](fetch.ai)

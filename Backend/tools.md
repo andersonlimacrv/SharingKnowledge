@@ -9,3 +9,6 @@
 [awesome-cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/)
 [free-for.dev](https://free-for.dev/)
 [permission](https://permission.site/)
+[swagger](https://editor.swagger.io/)
+[mock-api-server](https://stoplight.io/open-source/prism/)
+[webhook-on-localhost ](https://www.ultrahook.com/)

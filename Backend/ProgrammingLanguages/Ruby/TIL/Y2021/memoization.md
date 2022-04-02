@@ -74,4 +74,60 @@ class City < ActiveRecord::Base
 end
 ```
 
+### noted about nil and false case
+
+```html
+- This ||=-based technique can’t be used if the result of the computation is
+false or nil, in that case you should use the defined? method to memoize.
+
+- it will perform the heavy calculation every time
+```
+
+### when to use
+- duplicate db calls
+- expensive calculations
+- calculations that do not change
+
+### when not to use
+- some methods that take params
+- calculations that can easily change
+
+### example
+
+```ruby
+# source: https://codingnews.info/post/memoization.html
+
+# v1
+def slow_function
+  sleep 5
+  'result'
+end
+
+def memoization
+  @takes_time ||= slow_function
+end
+
+memoization()
+# Wait 5 seconds
+=> 'result'
+memoziation()
+# Inmediateley
+=> 'result'
+
+# v2
+def slow_function
+  @takes_time ||= begin
+    sleep 5
+    'result'
+  end
+end
+
+slow_function()
+# Wait 5 seconds
+=> 'result'
+slow_function()
+# Inmediateley
+=> 'result'
+```
+
 [source](https://www.justinweiss.com/articles/4-simple-memoization-patterns-in-ruby-and-one-gem/)

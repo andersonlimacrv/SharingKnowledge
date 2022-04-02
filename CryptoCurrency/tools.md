@@ -30,26 +30,29 @@ https://digitalcoinprice.com/forecast/reef
 https://coinlist.co/
 
 
-### DeFi
+### checking trending defi
+https://tin.network/en/farms
 https://defipulse.com/
 https://zapper.fi/invest
 https://defillama.com/
 yearn.finance
 curve.fi
+https://coindix.com/
 
 ### checking Defi
 https://defiyield.app/rekt-database
 
+
 ### Staking Reward
 https://www.stakingrewards.com/
-http://kebabfinance.com/ (*)
-http://mofi.finance/ (*)
-http://beefy.finance  + (https://www.yieldwatch.net/)
-https://autofarm.network/
 
 
 ### Farming
 https://v3.unifarm.co/
+http://kebabfinance.com/ (*)
+http://mofi.finance/ (*)
+http://beefy.finance  + (https://www.yieldwatch.net/)
+https://autofarm.network/
 
 
 ### File Sharing
@@ -57,3 +60,15 @@ https://crust.network/
 
 
 https://mask.io/
+
+
+### Pokadot manage un
+https://sub.id
+
+### checking vesting IDO
+https://vestlab.io/
+
+### check scam project
+https://www.honeypot.is/
+https://tokensniffer.com/
+https://www.crunchbase.com/ (check people)
