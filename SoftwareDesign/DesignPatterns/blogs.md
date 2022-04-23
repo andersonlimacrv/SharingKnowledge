@@ -2,3 +2,4 @@
 [bogdanvlviv](https://bogdanvlviv.com/posts/ruby/patterns/design-patterns-in-ruby.html#factory-method)
 [oodesign](https://www.oodesign.com/)
 [design-patterns-in-ruby](https://github.com/nslocum/design-patterns-in-ruby)
+[code-examples](http://www.coursegalaxy.com/design-patterns/factory-method-ruby.html)

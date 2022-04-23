@@ -23,3 +23,4 @@ They are used in place of allow or expect:
 
 [devhints](https://devhints.io/rspec)
 [rspec](https://spartchou.gitbooks.io/ruby-on-rails-basic/content/rspec/stub.html)
+[rspec_expectation](https://kapeli.com/cheat_sheets/RSpec_Expectations.docset/Contents/Resources/Documents/index)

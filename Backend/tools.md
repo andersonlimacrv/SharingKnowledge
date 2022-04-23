@@ -12,3 +12,6 @@
 [swagger](https://editor.swagger.io/)
 [mock-api-server](https://stoplight.io/open-source/prism/)
 [webhook-on-localhost ](https://www.ultrahook.com/)
+
+### zalo developer
+[code verifer generator](https://tonyxu-io.github.io/pkce-generator/)

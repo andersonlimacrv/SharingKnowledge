@@ -23,3 +23,6 @@ https://cryptozombies.io/ [solidity]
 ### development tools
 - https://www.alchemy.com/
 - https://infura.io/
+
+### news
+https://www.electriccapital.com/
