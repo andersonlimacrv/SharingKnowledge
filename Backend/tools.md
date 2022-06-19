@@ -15,3 +15,7 @@
 
 ### zalo developer
 [code verifer generator](https://tonyxu-io.github.io/pkce-generator/)
+
+### Pass
+https://dokku.com/
+  + Dokku helps you build and manage the lifecycle of applications

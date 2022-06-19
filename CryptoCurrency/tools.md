@@ -67,6 +67,7 @@ https://sub.id
 
 ### checking vesting IDO
 https://vestlab.io/
+https://chainplay.gg/calendar/
 
 ### check scam project
 https://www.honeypot.is/

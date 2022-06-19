@@ -24,6 +24,8 @@
 [1, 2]
 => #<Guest:0x00005621248fb650>
 
-super - sends all arguments
+super - sends all arguments passed to the function to parent
 super() - no arguments
 ```
+
+[source](http://chenghsuan.me/posts/ruby-super-super)

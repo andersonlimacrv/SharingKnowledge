@@ -24,5 +24,8 @@ https://cryptozombies.io/ [solidity]
 - https://www.alchemy.com/
 - https://infura.io/
 
+### layer1
+- https://aptos.dev/
+
 ### news
 https://www.electriccapital.com/
