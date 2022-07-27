@@ -1,0 +1,3 @@
+```ruby
+- \d: invalid
+```

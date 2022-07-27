@@ -15,3 +15,4 @@
 [septeni-technology](https://labs.septeni-technology.jp/design-2/domain-driven-design/domain-driven-design-cho-moi-nguoi/)
 [paper](https://blog.acolyer.org/)
 [awesomedataengineering](https://awesomedataengineering.com/)
+[xuanthulab](https://xuanthulab.net/lenh-git-remote-quan-ly-cac-lien-ket-toi-remote-repo.html)
