@@ -10,3 +10,7 @@
 [config multiple services in dev](https://tilt.dev/)
 https://devspace.sh/
 https://skaffold.dev/
+
+
+###
+1.[localstack]F (https://github.com/localstack/localstack)

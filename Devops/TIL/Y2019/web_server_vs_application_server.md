@@ -12,5 +12,4 @@
     - it is a server program in a computer in a distributed
     network that provides the business logic for an application
     program
-
 ```

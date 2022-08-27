@@ -18,3 +18,4 @@
 ### khả tín: có thể tin là thật
 ### nhân quả: cause and effect
 ### duyên: cause and condition (https://flownes.com/hieu-duyen-la-gi/)
+### phán xét: Phán là nêu ra sự sai trái. Xét là kết luận là sai và lên án

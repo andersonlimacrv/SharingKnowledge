@@ -13,7 +13,7 @@
 ### until now: cho đến bây giờ
 ### deemed: regard as (coi là)
 ### portfolio: a set of pieces of creative work collected to be shown to potential customers or employers
-### merely:chỉ đơn thuần là
+### merely: chỉ đơn thuần là
 ### pitfalls: cạm bẫy
 ### interelated: liên quan đến nhau
 ### congress: quốc hội
@@ -28,3 +28,10 @@
 ### until then: cho đến lúc đó
 ### constantly: liên tục
 ### metaphor: phép ẩn dụ
+### ought to:
+### consequences: hậu quả
+### Stay tuned: giữ nguyên / stay tuned for more updates! (hãy theo dõi để biết thêm thông tin cập nhật)
+### peak time: thời gian cao điểm
+### mitigate: gỉam nhẹ
+### disassembles: sự tháo rời
+### work out: thực thi
