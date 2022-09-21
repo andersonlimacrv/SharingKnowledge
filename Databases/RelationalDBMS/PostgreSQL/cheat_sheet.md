@@ -26,3 +26,18 @@
 
   URL: https://www.postgresql.org/docs/12/sql-createindex.html
 ```
+
+
+
+### check log
+
+```bash
+tail -n 10 /usr/local/var/log/postgres.log
+```
+
+
+### restart service with clearer description
+
+```bash
+ brew services restart -vvv postgresql@14
+```
