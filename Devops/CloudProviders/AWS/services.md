@@ -1,3 +1,4 @@
 - EC2
 - S3
 - elasticbeanstalk
+- appsync: https://aws.amazon.com/appsync/

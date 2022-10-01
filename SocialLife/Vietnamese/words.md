@@ -19,3 +19,5 @@
 ### nhân quả: cause and effect
 ### duyên: cause and condition (https://flownes.com/hieu-duyen-la-gi/)
 ### phán xét: Phán là nêu ra sự sai trái. Xét là kết luận là sai và lên án
+### trọc phú: người giàu có mà dốt nát
+### trước bạ: ghi vào sổ sách của chính quyền
