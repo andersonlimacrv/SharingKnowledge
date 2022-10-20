@@ -16,6 +16,14 @@ p1.save
 p2.first_name = "should fail"
 p2.save # Raises a ActiveRecord::StaleObjectError
 ```
+
+```html
+Để kích hoạt Optimistic Locking trong Rails, chúng ta chỉ cần tạo 1 field lock_version trong table,
+(lưu ý data type phải là integer và có default: 0)
+Mỗi lần update thì Rails sẽ tự tăng giá trị của lock_version lên 1 đơn vị, vì vậy nếu update bị conflict
+thì giá trị lock_version sẽ không khớp Rails sẽ raise exception StaleObjectError
+```
+
 2. Pessimistic Locking
 
 ```html

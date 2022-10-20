@@ -50,7 +50,7 @@ WHERE name in (SELECT DISTINCT name
                      FROM salaries
                      WHERE gender = "Female")
 
--- using CTE
+-- using CTE (bảng )
 with toronto_ppl as (
    SELECT DISTINCT name
    FROM population
