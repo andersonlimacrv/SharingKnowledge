@@ -1,7 +1,7 @@
-###filter branch name and author
+### filter branch name and author
 git log branch_name --author='Dyaniyal'
 
 
-###show file diff
+### show file diff
 git log -p
 
