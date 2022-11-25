@@ -8,10 +8,6 @@ https://www.strictmode.io/articles/setting-up-rails-7-for-typescript-and-react
 
 
 
-
-
-
-
 1. import maps
 - (to use import maps)[https://betterprogramming.pub/react-with-rails-2022-bd28e1fcd355]
 

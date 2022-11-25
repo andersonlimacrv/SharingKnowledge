@@ -43,4 +43,4 @@ marksum firstname
 47      new
 ```
 
-###PARTITION BY is analytic, while GROUP BY is aggregate
+### PARTITION BY is analytic, while GROUP BY is aggregate

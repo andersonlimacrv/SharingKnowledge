@@ -13,3 +13,14 @@ module Git
     end
   end
 end
+
+
+=begin
+#!/bin/sh
+find . -type d -name .git -exec sh -c "cd \"{}\"/../ && pwd && git pull" \;
+=end
+
+=begin
+#!/bin/sh
+find . -type d -name .git -exec sh -c "cd \"{}\"/../ && pwd && git checkout master && git pull" \;
+=end

@@ -7,3 +7,8 @@
 
 *** replica
 [debezium](https://debezium.io/)
+
+
+
+### practice sql
+http://sqlfiddle.com/
