@@ -32,7 +32,7 @@ should use require_relative instead.
 $LOAD_PATH << './app'
 ```
 
-### 2. requre_all (is a subset of require)
+### 2. require_all (is a subset of require)
 - the method allows you to require the entire directory
 
 ### 3. require_relative (is a subset of require)
@@ -56,5 +56,11 @@ require(File.expand_path('path', File.dirname(__FILE__)))
 2. require_relative
 - should be used for referring to files within your directory (local files)
 - most likely be used to bring in code from another file that you wrote
+
+
+```html
+- Use require for installed gems
+- Use require_relative for local files
+```
 
 [source](https://medium.ninja/@ellishim/understanding-require-vs-require-relative-vs-require-all-80e3b26d89e6)
