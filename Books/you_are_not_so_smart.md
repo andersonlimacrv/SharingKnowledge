@@ -28,7 +28,17 @@ Sự thật là:
 5. Thiên lệch nhận thức muộn
 ~~~html
 Bạn vẫn tưởng:
+	Sau khi học được một điều mới, bạn nhận thức được rằng mình đã từng thiếu hiểu biết
+	và sai lầm.
+
 Sự thật là:
+	Bạn thường nhìn lại những điều vừa mới học được và cho rằng mình đã biết hết từ lâu rồi.
+	"Biết ngay là kiểu gì đội này cũng sẽ thua mà"
+	"Đó là điều tôi nghĩ sẽ xảy ra"
+	"Đã bảo rồi mà"
+	"Đấy rõ ràng là chuyện ai cũng phải biết"
+	"Tôi đã đoán trước là anh sẽ nói thế"
+	Đã bao nhiêu lần bạn nói những điều giống như trên và tin rằng đó là sự thật?
 ~~~
 6. Sự nguỵ biện của tay thiện xạ Texas
 ~~~html
@@ -70,7 +80,11 @@ Sự thật là:
 12. Hiệu ứng Dunning-Kruger
 ~~~html
 Bạn vẫn tưởng:
+	Bạn có thể dự đoán chính xác khả năng của mình ở mọi tình huống.
+
 Sự thật là:
+	Về cơ bản thì bạn khá kém trong việc đánh giá khả năng của bản thân và độ
+	khó của những công việc phức tạp
 ~~~
 13. Ảo quan
 ~~~html
@@ -85,7 +99,11 @@ Sự thật là:
 15. Lập luận dựa vào thẩm quyền
 ~~~html
 Bạn vẫn tưởng:
+	Bạn quan tâm đến độ chính xác của thông tin hơn là người đưa ra thông tin
+
 Sự thật là:
+	Địa vị và uy tín của một người ảnh hưởng rất lớn tới cách mà bạn nhận thức về
+	thông điệp của họ.
 ~~~
 16. Lập luận từ sự thiếu hiểu biết
 ~~~html
@@ -100,12 +118,21 @@ Sự thật là:
 18. Nguỵ biện tấn công cá nhân
 ~~~html
 Bạn vẫn tưởng:
+	Nếu bạn không thể tin tưởng ai đó thì bạn nên bỏ ngoài tai những quan điểm của họ.
+
 Sự thật là:
+	Điều mà người ta nói và tại sao mà họ nói điều đó cần được phán xét một cách tách biệt
+	rạch ròi.
 ~~~
 19. Nguỵ biện về thế giới công bằng
 ~~~html
 Bạn vẫn tưởng:
+	Những người thất bại trong cuộc sống chắc chắn đã làm điều gì đó sai
+	nên mới đáng bị như vậy.
+
 Sự thật là:
+	Những người may mắn thường cũng chẳng phải do đã làm điều gì đó xứng đáng,
+	và kẻ xấu cũng thường xuyên thoát tội mà không phải trả giá.
 ~~~
 20. Trò chơi lợi ích chung
 ~~~html
@@ -145,7 +172,12 @@ Sự thật là:
 27. Con số Dunbar
 ~~~html
 Bạn vẫn tưởng:
+	Bạn có một cuốn danh bạ trong đầu lưu giữ tên gọi và khuôn mặt của tất cả những
+	người mà bạn quen biết.
+
 Sự thật là:
+	Bạn chỉ có khả năng duy trì và chăm chút cho các mối quan hệ với khoảng 150 người trong
+	cùng một thời điểm.
 ~~~
 28. Bán rẻ
 ~~~html
@@ -155,7 +187,12 @@ Sự thật là:
 29. Thiên kiến tự đề cao
 ~~~html
 Bạn vẫn tưởng:
+	Bạn tự đánh giá bản thân một cách khách quan qua những thành công và thất bại
+	trong quá khứ.
+
 Sự thật là:
+	Bạn luôn tìm lý do biện hộ cho sự thất bại của bản thân, và tự cho mình là thành đạt
+	hơn, thông minh hơn, giỏi giang hơn so với con người thực.
 ~~~
 30. Hiệu ứng ánh đèn sân khấu
 ~~~html
@@ -175,7 +212,11 @@ Sự thật là:
 33. Hiệu ứng thông tin sai lệch
 ~~~html
 Bạn vẫn tưởng:
+	Ký ức có thể tua lại như một cuộn phim vậy
+
 Sự thật là:
+	Ký ức được tạo dựng bởi những thông tin có sẵn. Điều đó khiến nó rất
+	dễ bị ảnh hưởng bởi những yếu tố trong thời điểm hiện tại.
 ~~~
 34. Sự phục tùng
 ~~~html
@@ -220,7 +261,11 @@ Sự thật là:
 42. Sự tự chấp
 ~~~html
 Bạn vẫn tưởng:
+	Trong mọi việc, bạn luôn cố gắng để được thành công.
+
 Sự thật là:
+	Bạn thường tạo ra những điều kiện cho sự thất bại để tự bảo vệ
+	cái tôi của mình.
 ~~~
 43. Những lời tiên tri tự hoàn thành
 ~~~html
@@ -230,7 +275,12 @@ Sự thật là:
 44. Thời khắc
 ~~~html
 Bạn vẫn tưởng:
+	Bạn là cá thể duy nhất, và sự hạnh phúc của bạn phụ thuộc vào việc
+	bạn có bằng lòng với cuộc sống hay không.
+
 Sự thật là:
+	Bạn là một tập hợp của nhiều bản ngã, và hạnh phúc của bạn dựa vào việc
+	thoả mãn tất cả những bản ngã này.
 ~~~
 45. Thiên kiến về sự nhất quán
 ~~~html
