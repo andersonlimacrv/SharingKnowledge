@@ -1,4 +1,4 @@
-```
+~~~html
 1. < 30ms
   - excellent ping; almost unnoticeable; ideal for online gaming
 2. 30-50ms
@@ -13,4 +13,4 @@
   - pings of a half second or more will add a noticeable delay
   to all requests; typically happens when the source and destination
   are in different parts of the world
-```
+~~~

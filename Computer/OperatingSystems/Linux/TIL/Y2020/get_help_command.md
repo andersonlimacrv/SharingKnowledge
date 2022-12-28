@@ -1,5 +1,4 @@
-```html
-  man <tool_name|command>
-
-  <tool_name|command> -h
-```
+~~~bash
+# man <tool_name|command>
+# <tool_name|command> -h
+~~~

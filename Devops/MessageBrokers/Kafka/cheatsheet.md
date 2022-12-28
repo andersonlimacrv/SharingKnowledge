@@ -7,3 +7,12 @@
 ### consumers: là thành phần đọc các message
 ### broker: máy chủ kafka
 [source](https://viblo.asia/p/kafka-nhung-khai-niem-dau-tien-RQqKLPMNK7z)
+
+
+
+### kafka commands
+
+~~~bash
+# check kafka version
+kafka-dump-log --version # => 3.3.1 (Commit:e23c59d00e687ff5)
+~~~

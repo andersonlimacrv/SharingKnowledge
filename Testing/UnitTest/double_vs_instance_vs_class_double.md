@@ -5,7 +5,7 @@
 
 ### double vs instance_double
 
-```html
+~~~ruby
 # Bad
 double(:mailer, deliver: true, foo: 42)
 double(:User, find: fake_user, bar: 43)
@@ -17,6 +17,8 @@ instance_double(Mailer, deliver: true, foo: 42)
 class_double(User, find: fake_user, bar: 43)
 # => RSpec::Mocks::MockExpectationError: the User class does not implement the class method: bar
 
-### instance_double can fail a test if methods are not available in the specified class
-### double doesn't care about anything.
-```
+=begin
+- instance_double can fail a test if methods are not available in the specified class
+- double doesn't care about anything.
+=end
+~~~

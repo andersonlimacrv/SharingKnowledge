@@ -1,3 +1,3 @@
-```html
-  docker exec -it <container name> /bin/sh
-```
+~~~bash
+# docker exec -it <container name> /bin/sh
+~~~

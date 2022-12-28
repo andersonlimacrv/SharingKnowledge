@@ -1,3 +1,3 @@
-```html
-docker-compose run --service-ports [service name]
-```
+~~~bash
+# docker-compose run --service-ports [service name]
+~~~

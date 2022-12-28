@@ -13,7 +13,12 @@ Sự thật là:
 2. Mồi tiềm thức
 ~~~html
 Bạn vẫn tưởng:
+ 	Bạn biết rõ khi nào mình chịu tác động của một điều gì đó, và nó sẽ ảnh hưởng tới hành vi
+ 	của bạn ra sao.
+
 Sự thật là:
+	Bạn hoàn toàn không có ý thức được về việc mình liên tục bị tác động bởi các ý tưởng do chính
+	tiềm thức của mình tạo ra.
 ~~~
 3. Chứng bịa chuyện
 ~~~html
@@ -43,17 +48,29 @@ Sự thật là:
 6. Sự nguỵ biện của tay thiện xạ Texas
 ~~~html
 Bạn vẫn tưởng:
+	Bạn biết cách tính tới sự ngẫu nhiên khi xác định nguyên nhân và kết quả.
+
 Sự thật là:
+	Bạn có xu hướng bỏ qua sự ngẫu nhiên khi kết quả có vẻ có ý nghĩa, hoặc khi bạn muốn
+	một sự việc ngẫu nhiên có nguyên nhân hợp lý.
 ~~~
 7. Sự trì hoãn
 ~~~html
 Bạn vẫn tưởng:
+	Bạn thường trì hoãn công việc bởi vì bạn là một kẻ lười biếng và không biết cách kiểm soát thời gian
+	của mình.
+
 Sự thật là:
+	Sự trì hoãn được thúc đẩy khi bạn yếu đuối trước những cám dỗ và không tự ngẫm về các
+	suy nghĩ của bản thân.
 ~~~
 8. Sự ngộ nhận trạng thái bình thường
 ~~~html
 Bạn vẫn tưởng:
+	Bản năng đương đâu hay chạy trốn của bạn sẽ được kích hoạt khi đối mặt với hiểm nguy.
+
 Sự thật là:
+	Bạn thường trở nên bình thản một cách kỳ lạ trước mối nguy và vờ như mọi chuyện sẽ ổn.
 ~~~
 9. Nội quan
 ~~~html
@@ -89,7 +106,11 @@ Sự thật là:
 13. Ảo quan
 ~~~html
 Bạn vẫn tưởng:
+	Có những sự trùng hợp thật kỳ diệu. Chắc hản chúng phải có ý nghĩa nào đó chứ.
+
 Sự thật là:
+	Trùng hợp là chuyện thường ngày ở huyện, kể cả những điều tưởng chừng như là kỳ diệu.
+	Mọi ý nghĩa mà chúng có điều do chính tâm trí của bạn nghĩ ra thôi.
 ~~~
 14. Lòng trung thành với thương hiệu
 ~~~html
@@ -108,12 +129,20 @@ Sự thật là:
 16. Lập luận từ sự thiếu hiểu biết
 ~~~html
 Bạn vẫn tưởng:
+	Khi không thể giải thích được điều gì đó, bạn sẽ tập trung vào những điều mà bạn
+	có thể chứng minh.
+
 Sự thật là:
+	Khi không chắc về điều gì đó, bạn có xu hướng chấp nhận những lời giải thích kỳ lạ.
 ~~~
 17. Nguỵ biện bù nhìn rơm
 ~~~html
 Bạn vẫn tưởng:
+	Khi tranh luận, bạn luôn bám vào những luận chứng khách quan.
+
 Sự thật là:
+	Trong các cuộc tranh luận, sự bực bội sẽ khiến bạn cố tình bẻ cong và thay đổi
+	lập trường của đối thủ.
 ~~~
 18. Nguỵ biện tấn công cá nhân
 ~~~html

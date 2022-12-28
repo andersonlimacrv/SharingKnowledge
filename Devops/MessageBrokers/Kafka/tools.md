@@ -1,4 +1,5 @@
 [kafka client ui](https://www.conduktor.io)
-https://www.kafkamagic.com/download/
-https://kouncil.io/
-https://macdownload.informer.com/kafka-tool/download/
+[kafkamagic](https://www.kafkamagic.com/download/)
+[kouncil](https://kouncil.io/)
+[kafka-tool](https://macdownload.informer.com/kafka-tool/download/)
+[top-5-tools-to-manage-develop-with-apache-kafka](https://needablackcoffee.medium.com/my-top-5-tools-to-manage-develop-with-apache-kafka-2e6790a88ef2)
