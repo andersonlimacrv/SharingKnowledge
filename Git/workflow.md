@@ -2,13 +2,13 @@
 [a-successful-git-branching-model](https://nvie.com/posts/a-successful-git-branching-model/)
 
 ```html
-  -​1​ Overall branching model and main branches
+  -1 Overall branching model and main branches
   The selected branching model is based on this article:
 
   https://www.wearefine.com/mingle/env-branching-with-git/
 
 
-  ​2​ Main branches
+  2 Main branches
   master
 
   Production servers
@@ -22,7 +22,7 @@
   Development servers
 
 
-  ​3​ Branch naming
+  3 Branch naming
   Always use the best-suited prefix from the following list in your branch name:
 
   feature/
@@ -42,7 +42,7 @@
   for code refactoring
 
 
-  ​4 Workflow
+  4 Workflow
   Checkout new feature branch with suitable prefix in the name
 
   Pay attention from which branch you check out your new branch:
