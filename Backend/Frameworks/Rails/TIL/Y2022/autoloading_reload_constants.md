@@ -36,5 +36,4 @@ Both of these approaches generally work, but they are not equivalent.
 
 
 [autoloading_and_reloading_constants](https://guides.rubyonrails.org/v4.2.2/autoloading_and_reloading_constants.html)
-
-(https://randycoulman.com/blog/2014/12/09/namespaced-classes-in-rails/)
+[namespace in rails](https://randycoulman.com/blog/2014/12/09/namespaced-classes-in-rails/)

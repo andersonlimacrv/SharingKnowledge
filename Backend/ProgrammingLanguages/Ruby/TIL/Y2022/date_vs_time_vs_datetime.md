@@ -17,6 +17,7 @@ just use Time instead
 - The biggest difference between Date and Time is that
 	+ Date is concerned with days and above;
 	+ if you care at all about hours, minutes, seconds and below, or think you might care about them in the future, you have to use Time. Date can’t handle any of that.
+
 - On the other hand, here are some things Date can do better than Time:
 	+ Handle history
 	+ Be configured to accept dates in different formats

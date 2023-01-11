@@ -1,11 +1,9 @@
-#### That is the double splat operator which is available since Ruby 2.0.
+### That is the double splat operator which is available since Ruby 2.0.
 
 ```html
 It captures all keyword arguments
 (which can also be a simple hash, which was the idiomatic way to emulate keyword arguments before they became part of the Ruby language)
 ```
-
-
 
 - The operator ** is useful as an options hash.
 
