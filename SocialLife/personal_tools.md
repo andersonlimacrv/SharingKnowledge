@@ -15,6 +15,19 @@ ex: abcdefgh@gmail.com
 2. ab.cdefgh@gmail.com
 3. abcdefgh+01@gmail.com
 
-
 ### PDF
 https://www.sejda.com/
+
+### Terms
+termly.io
+
+### automation
+https://trigger.dev
+https://zapier.com/
+https://manychat.com/
+
+### works
+https://www.studypool.com/
+
+### streaming
+https://doodstream.com/

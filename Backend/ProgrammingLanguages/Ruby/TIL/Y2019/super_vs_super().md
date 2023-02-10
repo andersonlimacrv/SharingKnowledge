@@ -58,6 +58,7 @@ class Cat < Animal
     puts "eating #{food2} as well"
   end
 end
+
 class BlankSlate
 	instance_methods.each { |meth| undef_method(meth) unless meth =~ /\A__/ }
 

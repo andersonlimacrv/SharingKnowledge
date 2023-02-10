@@ -21,3 +21,5 @@
 ### phán xét: Phán là nêu ra sự sai trái. Xét là kết luận là sai và lên án
 ### trọc phú: người giàu có mà dốt nát
 ### trước bạ: ghi vào sổ sách của chính quyền
+### định kiến (Prejudice): là những ý kiến, quan điểm đã được hình thành, trước khi nhận thức các dữ kiện có liên quan hoặc biết rõ những thông tin liên quan của một sự kiện cụ thể
+### thiên kiến (Bias): thiên kiến Thiên trong thiên vị, kiến trong ý kiến là xu hướng giữ hoặc nói một quan điểm không đầy đủ, thường đi kèm với sự từ chối xem xét các góc nhìn khác hoặc là không sẵn lòng tiếp nhận những thông tin mới, đặc biệt khi thông tin mới không thuận theo quan điểm cũ.

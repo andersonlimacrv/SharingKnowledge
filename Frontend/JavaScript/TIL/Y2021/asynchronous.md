@@ -19,7 +19,7 @@ console.log(" Ice Cream ");
 //result is: I -> eat -> Ice Cream
 ```
 
-###asynchronous example
+### asynchronous example
 
 ```js
 console.log("I");
@@ -32,7 +32,7 @@ console.log("Ice Cream")
 //result is: I -> Ice Cream -> eat
 ```
 
-###Promise
+### Promise
 
     A promise is made
           |
@@ -59,7 +59,7 @@ function order(){
 }
 ```
 
-###Async/Await example
+### Async/Await example
 
 ```js
 //👇 the magical keyword
@@ -68,7 +68,7 @@ function order(){
  }
 ```
 
-###Promise try catch example
+### Promise try catch example
 
 ```js
 function kitchen(){
@@ -91,7 +91,7 @@ kitchen()  // run the code
 .finally() // end of the promise [optional]
 ```
 
-###Async/Await try catch example
+### Async/Await try catch example
 
 ```js
 //👇 Magical keyword
@@ -113,3 +113,4 @@ async function kitchen(){
 
 kitchen()  // run the code
 ```
+[source](https://github.com/vasanthk/async-javascript)

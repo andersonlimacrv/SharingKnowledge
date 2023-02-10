@@ -2,11 +2,11 @@
 
 module Devops
   module CloudProviders
-    module UpCloud
+    module Mogenius
       class Base
         def reference
           <<~REFERENCE.strip
-            https://upcloud.com/
+            https://mogenius.com/
           REFERENCE
         end
       end
