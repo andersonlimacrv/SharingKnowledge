@@ -7,7 +7,7 @@
 - Only one thread at a time can take the ownership of a mutex and apply the lock. Once it done utilising the resource and it may release the mutex lock.
 
 2. Semaphore
-###Types
+### Types
 - Binary: Only True/False or 0/1 values
 - Counting: Non-negative value
 

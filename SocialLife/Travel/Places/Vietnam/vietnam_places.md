@@ -10,7 +10,7 @@
 - [ ] Quảng Ninh
 - [x] Quảng Trị
 - [x] Sóc Trăng
-- [ ] Sơn La
+- [x] Sơn La
 - [x] Tây Ninh
 - [ ] Thái Bình
 - [ ] Thái Nguyên

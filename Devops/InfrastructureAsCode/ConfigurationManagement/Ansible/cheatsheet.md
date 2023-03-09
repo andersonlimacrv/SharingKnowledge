@@ -1,4 +1,4 @@
-###ansible commands
+### ansible commands
 ```html
 - ansible
 - ansible-connection
@@ -16,5 +16,5 @@
 ```
 
 
-###cheatsheet
+### cheatsheet
 - playbook: a file containing a series of tasks to be executed on a remote server.

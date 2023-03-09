@@ -16,3 +16,4 @@
 [paper](https://blog.acolyer.org/)
 [awesomedataengineering](https://awesomedataengineering.com/)
 [xuanthulab](https://xuanthulab.net/lenh-git-remote-quan-ly-cac-lien-ket-toi-remote-repo.html)
+[tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)

@@ -35,3 +35,4 @@
 ### mitigate: gỉam nhẹ
 ### disassembles: sự tháo rời
 ### work out: thực thi
+### downside: nhược điểm

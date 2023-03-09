@@ -6,7 +6,6 @@
 [system_design](https://github.com/shashank88/system_design)
 [microservices](https://microservices.io/)
 [systems-design-for-advanced-beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
-[BUSINESS LOGIC FRAMEWORK](https://trailblazer.to/)
 [toihocdesignpattern](https://toihocdesignpattern.com/chuong-4-factory-pattern-va-abstract-factory-pattern-phan-1.html)
 [wigdet driven development](https://alexei.me/blog/widget-driven-development/)
 [highscalability](http://highscalability.com/)

@@ -1,0 +1,6 @@
+[howtousetrailblazer](https://dev.to/2nit/trailblazer-tutorial-fat-controller-part-1-4k80)
+[trailblazer](https://trailblazer.to/2.1/)
+[BUSINESS LOGIC FRAMEWORK](https://trailblazer.to/)
+[intro](https://www.slideshare.net/pivorak/intro-introduction-by-nick-sutterer)
+[intro](https://mensfeld.github.io/trailblazer-2.0-introduction/#/22)
+[intro](https://speakerdeck.com/springok/building-rails-with-trailblazer-slides)

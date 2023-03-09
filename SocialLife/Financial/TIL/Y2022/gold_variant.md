@@ -1,5 +1,5 @@
 1. vàng ta (vàng 9999)
-- Sử dụng chủ yếu với mục đích tính trữ, đầu tư lâu dài.
+- Sử dụng chủ yếu với mục đích tích trữ, đầu tư lâu dài.
 2. vàng 999 (vàng 24K)
 - chủ yếu dùng để tích trữ, đầu tư mà ít được ứng dụng trong ngành chế tác trang sức.
 3. vàng trắng (Vàng trắng 10K,14K, 18K)
@@ -10,8 +10,6 @@
 - Tỷ lệ bán lại sau khi mua thấp
 8. vàng mỹ ký
 - Rất khó có thể bán lại sau khi mua.
-
-
 
 ### Độ tuổi vàng
 - Vàng 24K còn được gọi là Vàng bảy tuổi rưỡi.
@@ -24,7 +22,6 @@
 - Vàng SJC
 - Vàng Mi Hồng
 - Vàng AAA
-
 
 ### Đơn vị vàng (K ở đây là Karat)
 - đơn vị đo độ nguyên chất của vàng

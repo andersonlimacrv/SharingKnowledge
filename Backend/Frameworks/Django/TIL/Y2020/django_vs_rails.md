@@ -1,7 +1,7 @@
 [django_vs_rails](https://www.sitepoint.com/django-for-the-rails-developer/)
 
 
-###Creating a New Model
+### Creating a New Model
 
 1. Django Workflow
 

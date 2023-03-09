@@ -10,3 +10,11 @@
 − Microsoft Visio
 − Visual Paradigm for UML
 − SmartDraw
+
+### tools
+https://www.plantuml.com/
+
+
+#### activity diagram syntax
+~~~html
+~~~
