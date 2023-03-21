@@ -21,7 +21,7 @@
 - [x] Tuyên Quang
 - [x] Vĩnh Long
 - [ ] Vĩnh Phúc
-- [ ] Yên Bái
+- [x] Yên Bái
 - [x] Phú Yên
 - [ ] Hà Nam
 - [ ] Hà Tĩnh

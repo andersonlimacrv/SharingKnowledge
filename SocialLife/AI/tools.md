@@ -29,3 +29,7 @@ Designer https://midjourney.com/
 
 ### Buildt (help developers quickly search and understand large codebases)
 https://www.buildt.ai/
+
+
+### Developer bots that generate new web applications or add full-stack features to existing ones
+https://www.second.dev/
