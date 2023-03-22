@@ -34,3 +34,9 @@ give full disk access in security preferences of mac settings
 
 ### cloud cost
 https://www.vantage.sh/
+
+
+### diagram as code
+https://github.com/mingrammer/diagrams
+
+https://www.cloudcraft.co/
