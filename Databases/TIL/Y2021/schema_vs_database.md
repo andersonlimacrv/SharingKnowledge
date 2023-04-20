@@ -1,6 +1,6 @@
 [source](https://techdifferences.com/difference-between-schema-and-database.html)
 [source](https://www.geeksforgeeks.org/difference-between-schema-and-database/)
-###definition
+### definition
 
 ```html
 Schema is a structural definition or description of an entire database.

@@ -2,7 +2,7 @@
 [Pyenv virutalenv](https://github.com/pyenv/pyenv-virtualenv)
 
 
-###Issues
+### Issues
 
 ```html
    pyenv install 3.4.10
@@ -23,7 +23,7 @@
 
 ```
 
-###Learnings
+### Learnings
 I. PyPI packages not in the standard library:
    1. virtualenv
    2. pyenv
