@@ -11,3 +11,11 @@ module SoftwareDesign
 end
 
 # AbstractFactory is factory of factory
+
+### problem solved
+=begin
+=end
+
+### pros and cons
+=begin
+=end
