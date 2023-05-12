@@ -12,5 +12,8 @@
 ### TODO
 [build nosql db from scratch](https://betterprogramming.pub/build-a-nosql-database-from-the-scratch-in-1000-lines-of-code-8ed1c15ed924?fbclid=IwAR1a0q26FPet6uLedu_mKwVgdDqUNBp9LaTPL4GQf3Kf48DsMmemLwDCBl0&gi=574c89ee70a7)
 
-
+### sql doc
 [sql doc](https://docs.actian.com/zen/v15/index.html#search/count)
+
+### things-i-wished-more-developers-knew-about-databases
+https://rakyll.medium.com/things-i-wished-more-developers-knew-about-databases-2d0178464f78

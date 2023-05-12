@@ -26,6 +26,7 @@
 11. Synthtics CI batches
 12. Synthtics Runs
 
-
 ### Others
-- resource_name vs service vs hostname
+- resource_name: is a user-defined label that represents an entity being monitored. This could be a server, an application, a container, or any other resource that is being monitored by Datadog
+- service: is a logical grouping of resources that perform a similar function or belong to the same application
+- hostname: is the name of the physical or virtual machine where the resource is running

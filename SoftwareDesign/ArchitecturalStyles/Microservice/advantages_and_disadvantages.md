@@ -1,4 +1,4 @@
-###Advantages
+### Advantages
 - written in any languages/frameworks
 - independently in develop, deploy, redeploy, version and scale component services
   in seconds without compromising the integrity of an application
@@ -12,7 +12,7 @@
 - Easy to transfer knowledge to the new team member
 - Easy to integrate with third parties
 
-###Disadvantages
+### Disadvantages
 - The additional complexity for implementation of an inter-process communication mechanism between services.
 - Writing automated tests involving multiple services is challenging and It can be difficult to create consistent testing environments.
 - Requires high level of automation to manage multiple instances of different types of services in production.

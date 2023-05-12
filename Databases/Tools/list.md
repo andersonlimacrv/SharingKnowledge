@@ -21,5 +21,10 @@ https://app.airops.com/
 
 ### database benchmark
 https://github.com/akopytov/sysbench
+https://news.cloud365.vn/cli-2-gioi-thieu-lenh-sysbench-de-benchmark-he-thong/
 
-ex: https://news.cloud365.vn/cli-2-gioi-thieu-lenh-sysbench-de-benchmark-he-thong/
+### database of databases
+https://dbdb.io/
+
+### Learn Big Data frameworks, no set up required
+https://zillacode.com/

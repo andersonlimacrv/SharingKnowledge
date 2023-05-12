@@ -11,9 +11,11 @@ allow_any_instance_of(Class).to receive(:instance_method).and_raise(AnyError)
 
 [tips](https://medium.com/beamdental/rspec-tips-allow-any-instance-of-c11e38b098be)
 
+### receive_messages() vs receive_message_chain()
 
 ### receive_messages() vs receive()
 - allow_any_instance_of(A).to receive_messages() will allow you to stub any instance method of class A with a hash of method names and return values.
+
 - allow_any_instance_of(A).to receive(:instance_method).and_return(AnyValue) will allow you to stub a specific instance method of class A with a specific return value.
 
 ~~~html
@@ -117,5 +119,4 @@ RSpec.describe MyClass do
     end
   end
 end
-
 ~~~

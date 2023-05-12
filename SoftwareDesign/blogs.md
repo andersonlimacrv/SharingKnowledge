@@ -10,3 +10,7 @@
 [wigdet driven development](https://alexei.me/blog/widget-driven-development/)
 [highscalability](http://highscalability.com/)
 [awesome sarchitecture](https://awesome-architecture.com/messaging/kafka/#articles)
+
+
+### solution-architecture-patterns
+https://github.com/chanakaudaya/solution-architecture-patterns

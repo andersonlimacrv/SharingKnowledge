@@ -6,3 +6,4 @@
 
 ### perf
 [ruby-prof](https://ruby-prof.github.io/)
+[airbnb-ruby-prof](https://github.com/airbnb/ruby-prof)

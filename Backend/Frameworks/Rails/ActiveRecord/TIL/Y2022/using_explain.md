@@ -4,8 +4,7 @@ Model_A.find_by(id: "123").explain
 
 
 ```ruby
-Running explain analyze with AR
-
+# Running explain analyze with AR
 
 query = %{
   EXPLAIN ANALYZE
@@ -14,6 +13,4 @@ query = %{
 }
 
 puts ActiveRecord::Base.connection.exec_query(query)
-
-
 ```

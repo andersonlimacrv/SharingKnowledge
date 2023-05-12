@@ -66,3 +66,17 @@ The ISO 8601 standard is more modern. The formats are wisely designed to be easy
 
 Always choose ISO 8601 when serializing date-time values as text.
 ~~~
+
+### UTC vs timezone
+example:
+
+~~~html
+<!-- vidu ve hom nay vao luc 08:29 gio VNT -->
+Long Thạnh Mỹ, District 9, Ho Chi Minh City is 7 hours ahead of Coordinated Universal Time
+
+01:29 Tuesday, in Coordinated Universal Time is
+08:29 Tuesday, Long Thạnh Mỹ, District 9, Ho Chi Minh City (GMT+7)
+
+<!-- Greenwich Mean Time (GMT) is often interchanged or confused with Coordinated Universal Time (UTC). But GMT is a time zone and UTC is a time standard. -->
+~~~
+
