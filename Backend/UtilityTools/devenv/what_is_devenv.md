@@ -7,5 +7,5 @@ https://www.cachix.org/
 ### direnv
 https://direnv.net/
 
-
-[source](https://blog.testdouble.com/posts/2023-05-02-frictionless-developer-environments/)
+[blog](https://blog.testdouble.com/posts/2023-05-02-frictionless-developer-environments/)
+[blog](https://dev.to/bcardiff/contributing-to-devenv-50ag)

@@ -14,38 +14,36 @@
     `python manage.py runserver 0.0.0.0:8000`
 ```
 
-###modules
+### modules
   1. `import six`
   - Six: Python 2 and 3 Compatibility Library
   [docs](https://six.readthedocs.io/)
 
-###templates
+### templates
   1. {% extends %}
   2. {% block %} {% endblock %}
   3. {% include %}
 
-###exceptions
+### exceptions
   - https://docs.djangoproject.com/en/3.0/ref/exceptions/
 
-###logging levels
+### logging levels
   1. CRITICAL (Problems that crash the application)
   2. ERROR (Problems that break the current function)
   3. WARNING (Unexpected or undesirable events)
   4. INFO (Interesting runtime events. Notice that things are working)
   5. DEBUG (Detail for debugging in development and diagnosing problems)
 
-###4 basic classes in logging
+### 4 basic classes in logging
   1. Loggers
   2. Handlers
   3. Filters
   4. Formatters
 
-###Virtual Environment
+### Virtual Environment
 
 ```html
   A virtual environment is a container (directory) that holds a specific version
   of Python and a set of modules (dependencies), and which does not interfere
   with the operating system's native Python or other projects on the same computer
 ```
-
-

@@ -6,3 +6,5 @@
 [kcat](https://github.com/edenhill/kcat)
 [kafdrop](https://github.com/obsidiandynamics/kafdrop)
 [kadeck (in-use)](https://www.kadeck.com/download)
+
+https://redpanda.com/

@@ -4,3 +4,7 @@
 [learning-notes](https://learning-notes.mistermicheels.com/architecture-design/reference-architectures/package-by-feature-or-component/)
 [executeprogram](https://www.executeprogram.com/)
 [same-as-scratch-programming](https://studio.code.org/)
+
+### books
+https://goalkicker.com/
+https://vdoc.pub/

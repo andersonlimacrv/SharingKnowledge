@@ -4,4 +4,6 @@
 - A "stub" object is used to return a predetermined value when a certain method is called. Stubs are often used to replace the behavior of a collaborator that is difficult to set up or that has external dependencies (such as a database or a web service). Stubs do not have any expectations associated with them, so they will not cause a test to fail if they are not used as expected.
 
 - In general, you might use mocks when you want to set expectations on the behavior of collaborators in your system, and you might use stubs when you just want to replace the behavior of a collaborator with a fixed return value.
-~~
+
+- In summary, stubs are used when you want to focus on the result of a method and don't care about how it was achieved, while mocks are used when you want to verify the behavior and interactions of the code being tested.
+~~~

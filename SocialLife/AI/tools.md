@@ -15,7 +15,6 @@ Viết email có tỷ lệ chuyển đổi cao và nhanh hơn gấp 10 lần ch�
 Sử dụng Brand24 để theo dõi hiệu quả tiếp thị của bạn với phần báo cáo trên các trang mạng xã hội, blog, video, podcast,..
 
 
-
 Tạo slide bằng AI: https://www.chatbcg.com/
 AI search engine: https://you.com/
 Tạo nhạc bằng AI: https://soundraw.io/
@@ -37,3 +36,13 @@ https://www.second.dev/
 
 ### Build Software. Fast.
 https://www.cursor.so/
+
+
+### Build infrastructure
+https://www.pulumi.com/docs/clouds/aws/
+
+
+### ChatGTP family
+https://chat.openai.com/
+https://poe.com/
+https://www.phind.com/

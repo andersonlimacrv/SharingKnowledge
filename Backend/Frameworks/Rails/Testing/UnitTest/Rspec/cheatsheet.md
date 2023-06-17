@@ -18,6 +18,8 @@ They are used in place of allow or expect:
 
 ### described_class
 
+
+### sources:
 [rspec-mocks](https://relishapp.com/rspec/rspec-mocks/docs/working-with-legacy-code/any-instance)
 [devhints](https://devhints.io/rspec)
 [rspec](https://spartchou.gitbooks.io/ruby-on-rails-basic/content/rspec/stub.html)

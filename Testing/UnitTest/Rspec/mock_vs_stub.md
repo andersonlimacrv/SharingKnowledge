@@ -3,6 +3,8 @@
 ```html
 - A stub is only a method with a canned response, it doesn’t care about behavior.
 - Returns canned responses, avoiding any meaningful computation or I/O
+
+- A canned response in the context of testing and programming refers to a pre-determined or fixed response that is provided by a stub when a certain method or request is called. It is a way to simulate the behavior of a real object or service without actually invoking it.
 ```
 
 ```ruby
